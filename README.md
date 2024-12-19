@@ -6,7 +6,7 @@ Setup Instructions
 
 Clone or download the repository to your Tautulli server:
 
-git clone https://github.com/yourusername/tautulli-subtitle-extractor.git
+git clone https://github.com/aref2232/tautulli-subtitle-extractor.git
 
 Alternatively, download the ZIP file from GitHub and extract it.
 2. Place the Folder with the Script and FFmpeg in an Accessible Location
